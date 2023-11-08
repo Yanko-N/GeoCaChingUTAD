@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: nutricao
+  m_EditorClassIdentifier: 
+  name: "Ci\xEAncias da Nutri\xE7\xE3o"
+  description: "A Licenciatura em Ci\xEAncias da Nutri\xE7\xE3o visa promover a forma\xE7\xE3o
+    de profissionais no campo da nutri\xE7\xE3o humana com capacidade para melhorar
+    o bem-estar nutricional, a sa\xFAde e a qualidade de vida dos indiv\xEDduos e
+    das popula\xE7\xF5es,onde os alunos dever\xE3o ser capazes de utilizar os conhecimentos
+    t\xE9cnico-cient\xEDficos mais recentes sobre nutri\xE7\xE3o e alimenta\xE7\xE3o,
+    de modo a habilit\xE1-los para a resolu\xE7\xE3o de problemas ao n\xEDvel da
+    qualidade e seguran\xE7a alimentar."
+  imagemCurso: {fileID: 2800000, guid: a442933823e969e4cb0bd4794f20d671, type: 3}
+  polo: 2

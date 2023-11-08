@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2df697bbfe57b47b665bac1386065a, type: 3}
+  m_Name: Igreja
+  m_EditorClassIdentifier: 
+  name: Capela
+  trofeu: {fileID: 2527518253565518097, guid: 0cfea3ddfff34cb43900cc3e0e9bfd08, type: 3}
+  description: "Na igreja de S\xE3o Dinis existia uma imagem antiga de Cristo crucificado
+    que, segundo a tradi\xE7\xE3o, fora oferecida pela rainha Santa Isabel, e que
+    o Visitador mandou enterrar, por estar \"carcomida\". O padre \xC1lvaro Correia
+    Barbosa recolheu a imagem, restaurou-a e pintou-a. Depois de pronta, no dia 10
+    de Maio de 1644, conduziu-a de sua casa em prociss\xE3o at\xE9 \xE0 capela do
+    Esp\xEDrito Santo, colocando-a no trono do altar-mor e custeando missa cantada;
+    quando se cantava a gl\xF3ria, entrou na capela uma mulher, do lugar de Outeiro
+    Seco, aleijada das pernas, ao ponto de andar com o rosto quase a tocar nos joelhos.
+    Rompendo por entre a multid\xE3o, aproximou-se do altar e invocou o Bom Jesus,
+    inculcando a todos grande f\xE9, restabelecendo-se de imediato os ossos das juntas,
+    levantando-se \xE0 vista de todos \"valente e composta\", como se nunca tivesse
+    doente. Divulgado o milagre, os sinos das igrejas repicaram, atraindo muita gente
+    \xE0 capela. Na mesma manh\xE3, ali veio um rapaz de Lordelo, aleijado de um
+    bra\xE7o e coxo de uma perna, o qual invocando o Senhor Bom Jesus, logo ficou
+    s\xE3o. \xC0 tarde, levou-se a banda com que cingia a imagem de Bom Jesus a Helena
+    Botelho, pessoa nobre, filha de Heitor Correia da Cunha, que h\xE1 muito tempo
+    estava hidr\xF3pica, e cingindo-se ela com a banda, milagrosamente ficou curada.
+    Desse dia em diante, a imagem operou v\xE1rios milagres"
+  qrCodeText: IgrejaCode1
+  color: {r: 1, g: 1, b: 1, a: 1}
+  Active: 0

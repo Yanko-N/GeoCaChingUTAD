@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: Engenharia e Biotecnologia Florestal
+  m_EditorClassIdentifier: 
+  name: Engenharia e Biotecnologia Florestal
+  description: "A licenciatura em Engenharia e Biotecnologia Florestal valoriza a
+    gest\xE3o sustent\xE1vel de ecossistemas florestais e agroflorestais, as aplica\xE7\xF5es
+    biotecnol\xF3gicas no melhoramento, clonagem e transforma\xE7\xE3o gen\xE9tica
+    de plantas, e a inova\xE7\xE3o ao n\xEDvel das tecnologias da madeira. Combinando
+    assim o conhecimento do setor florestal com novas ferramentas na fronteira do
+    desenvolvimento tecnol\xF3gico, como as \xF4micas, as biotecnologias, a observa\xE7\xE3o
+    remota da Terra ou a intelig\xEAncia artificial."
+  imagemCurso: {fileID: 2800000, guid: 72a42b517e2293e4a9a9b4842effcd66, type: 3}
+  polo: 1

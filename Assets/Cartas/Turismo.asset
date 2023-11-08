@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: Turismo
+  m_EditorClassIdentifier: 
+  name: Turismo
+  description: "Este curso de licenciatura em Turismo tem como objetivo formar t\xE9cnicos
+    superiores capazes de gerir e planear produtos, empresas e destinos tur\xEDsticos.
+    Os alunos adquirem compet\xEAncias em an\xE1lise, comunica\xE7\xE3o, trabalho
+    em equipe, lideran\xE7a, \xE9tica e empreendedorismo, entre outros. A forma\xE7\xE3o
+    \xE9 multidisciplinar e foca em profissionalismo, hospitalidade e cosmopolitismo,
+    com \xEAnfase em comunica\xE7\xE3o, atendimento e compreens\xE3o intercultural."
+  imagemCurso: {fileID: 2800000, guid: 681f1a8d37862da48b8057cc136b846d, type: 3}
+  polo: 4

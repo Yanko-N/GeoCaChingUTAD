@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: Enfermagem
+  m_EditorClassIdentifier: 
+  name: Enfermagem
+  description: "A licenciatura em enfermagem forma profissionais capazes de prestar
+    cuidados de enfermagem a seres humanos em diferentes fases da vida, bem como
+    a fam\xEDlias, grupos e comunidades, em diversos n\xEDveis de preven\xE7\xE3o.
+    Al\xE9m disso, proporciona habilidades para a investiga\xE7\xE3o em enfermagem
+    e participa\xE7\xE3o na forma\xE7\xE3o de outros profissionais de sa\xFAde e
+    na gest\xE3o dos servi\xE7os de sa\xFAde."
+  imagemCurso: {fileID: 2800000, guid: 7bfc1ef1d06b49c41ad389b50da73d4d, type: 3}
+  polo: 0

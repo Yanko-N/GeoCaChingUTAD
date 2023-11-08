@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2df697bbfe57b47b665bac1386065a, type: 3}
+  m_Name: Desporto
+  m_EditorClassIdentifier: 
+  name: Desporto
+  trofeu: {fileID: 643617580119109938, guid: 27f7859b747e3644cb765d4bb4bf9ea6, type: 3}
+  description: "A Escola de Ci\xEAncias da Vida e do Ambiente (ECVA) \xE9 um edif\xEDcio
+    universit\xE1rio que engloba os departamentos de Biologia e Ambiente, Desporto,
+    Exerc\xEDcio e Sa\xFAde, Gen\xE9tica e Biotecnologia, Geologia e Qu\xEDmica.
+    Sua miss\xE3o principal \xE9 realizar atividades cont\xEDnuas de ensino, pesquisa,
+    transfer\xEAncia de ci\xEAncia e tecnologia, difus\xE3o cultural e presta\xE7\xE3o
+    de servi\xE7os especializados. A ECVA oferece uma ampla gama de programas educacionais,
+    abrangendo desde as ci\xEAncias relacionadas \xE0 biologia, alimenta\xE7\xE3o
+    e meio ambiente at\xE9 as ci\xEAncias do esporte. Os professores da ECVA est\xE3o
+    envolvidos em centros de pesquisa financiados pela FCT, como o Centro de Qu\xEDmica
+    de Vila Real (CQ-VR), Centro de Investiga\xE7\xE3o em Desporto, Sa\xFAde e Desenvolvimento
+    Humano (CIDESD) e Centro de Investiga\xE7\xE3o e Tecnologias Agroambientais e
+    Biol\xF3gicas (CITAB), colaborando com pesquisadores de outras escolas e institui\xE7\xF5es"
+  qrCodeText: sou pessimo a jogar futebol
+  color: {r: 1, g: 1, b: 1, a: 1}
+  Active: 0

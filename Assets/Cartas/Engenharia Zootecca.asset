@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: Engenharia Zootecca
+  m_EditorClassIdentifier: 
+  name: "Engenharia Zoot\xE9cnica"
+  description: "A engenharia Zoot\xE9cnica foca no desenvolvimento de recursos nas
+    diversas \xE1reas, com o intuito de obter um aumento na produ\xE7\xE3o e lucro,
+    sem esquecer o bem-estar e a sustentabilidade dos animais."
+  imagemCurso: {fileID: 2800000, guid: f0abd31b11c44234e9e3cafb0ae0217e, type: 3}
+  polo: 1

@@ -1,0 +1,4 @@
+repository "GeoCachingUtad@Wintersoft@cloud"
+  path "/"
+    br "/main"
+    co "/main"

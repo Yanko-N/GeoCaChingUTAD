@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: EdBasica
+  m_EditorClassIdentifier: 
+  name: "Educa\xE7\xE3o B\xE1sica"
+  description: "A Licenciatura em Educa\xE7\xE3o B\xE1sica visa desenvolver um perfil
+    de forma\xE7\xE3o com condi\xE7\xF5es de empregabilidade em contextos educativos
+    formais e n\xE3o-formais, dirigido para o desenvolvimento de projetos e recursos
+    educativos. Al\xE9m disso, garante as condi\xE7\xF5es para o aprofundamento dos
+    conhecimentos obtidos no 1\xBA Ciclo (grau de Licenciado) e requeridos para o
+    exerc\xEDcio docente no 2\xBA Ciclo de Forma\xE7\xE3o (grau de Mestre)."
+  imagemCurso: {fileID: 2800000, guid: 161ffb89a4a4235449f2d181f666d542, type: 3}
+  polo: 4

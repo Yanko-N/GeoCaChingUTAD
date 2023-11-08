@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2df697bbfe57b47b665bac1386065a, type: 3}
+  m_Name: Enfermagem
+  m_EditorClassIdentifier: 
+  name: Enfermagem Polo 1
+  trofeu: {fileID: 28639663244253457, guid: f5415859710fdf443972e1f29e004f88, type: 3}
+  description: "A Escola Superior de Sa\xFAde \xE9 um edif\xEDcio universit\xE1rio
+    que oferece programas de gradua\xE7\xE3o e mestrado em enfermagem. Localizada
+    no Polo II da ECVA, na UTAD, a escola realiza atividades de ensino, pesquisa
+    e envolvimento com a comunidade. Seus alunos e professores desempenham um papel
+    ativo na constru\xE7\xE3o de projetos de sa\xFAde individuais e coletivos, demonstrando
+    sua contribui\xE7\xE3o c\xEDvica."
+  qrCodeText: Enfermagem
+  color: {r: 1, g: 1, b: 1, a: 1}
+  Active: 0

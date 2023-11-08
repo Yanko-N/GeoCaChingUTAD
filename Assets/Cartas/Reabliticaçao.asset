@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: "Reablitica\xE7ao"
+  m_EditorClassIdentifier: 
+  name: "Reabilita\xE7\xE3o Psicomotora"
+  description: "Reabilita\xE7\xE3o Psicomotora \xE9 um curso cujo objetivo principal
+    \xE9 o de capacitar profissionais qualificados que possam atuar com compet\xEAncia
+    e compromisso junto de sectores da sociedade nomeadamente: a n\xEDvel Hospitalar
+    (servi\xE7os de Pediatria, Pedopsiquiatria e Psiquiatria, Educativo (creches,
+    jardins de inf\xE2ncia, escolas de ensino b\xE1sico e apoio aos alunos com Necessidades
+    Educativas Especiais), em Institui\xE7\xF5es de diversa \xEDndole (centros de
+    dia associa\xE7\xF5es de apoio social, associa\xE7\xF5es de atendimento a pessoas
+    portadoras de defici\xEAncia, centros psicopedag\xF3gicos, centros geri\xE1tricos
+    e outras entidades)."
+  imagemCurso: {fileID: 2800000, guid: 6be51b9ce0e0b5643a908bc0d947ff24, type: 3}
+  polo: 2

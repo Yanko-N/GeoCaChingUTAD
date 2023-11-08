@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: EngFisica
+  m_EditorClassIdentifier: 
+  name: "Engenharia F\xEDsica"
+  description: "Este curso tem como objetivo formar profissionais capacitados em
+    diversas \xE1reas da F\xEDsica, fornecendo-lhes ferramentas tecnol\xF3gicas para
+    aplicar seus conhecimentos em solu\xE7\xF5es tecnologicamente inovadoras para
+    problemas sociais. O curso tamb\xE9m oferece conhecimentos complementares em
+    Matem\xE1tica, Qu\xEDmica e Engenharia, incluindo Programa\xE7\xE3o e Eletr\xF4nica,
+    para preparar os alunos para acompanhar e aplicar avan\xE7os cient\xEDficos e
+    tecnol\xF3gicos futuros."
+  imagemCurso: {fileID: 2800000, guid: b0207a5c5b329b544b0a502ccc32a12e, type: 3}
+  polo: 3

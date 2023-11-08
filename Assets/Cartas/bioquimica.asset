@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: bioquimica
+  m_EditorClassIdentifier: 
+  name: "Bioqu\xEDmica"
+  description: "A Bioqu\xEDmica \xE9 uma ci\xEAncia multidisciplinar que utiliza
+    m\xE9todos e estrat\xE9gias das diferentes Ci\xEAncias Exatas e Naturais e que
+    permite aos seus licenciados apresentar uma s\xF3lida forma\xE7\xE3o b\xE1sica,
+    de modo a compreender melhor os sistemas biol\xF3gicos."
+  imagemCurso: {fileID: 2800000, guid: d60582cfd5a90e54a847692a1d34a870, type: 3}
+  polo: 2

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2df697bbfe57b47b665bac1386065a, type: 3}
+  m_Name: ChocasPolo2
+  m_EditorClassIdentifier: 
+  name: humanasSociais
+  trofeu: {fileID: 3281366166914143154, guid: 468a4c7546a83d64bb8d4279c2822641, type: 3}
+  description: "A Escola de Ci\xEAncias Humanas e Sociais (ECHS) \xE9 um edif\xEDcio
+    da universidade que abriga os departamentos de Economia, Sociologia e Gest\xE3o;
+    Educa\xE7\xE3o e Psicologia; Letras, Artes e Comunica\xE7\xE3o. A sua principal
+    miss\xE3o \xE9 produzir, disseminar e aplicar conhecimento nas \xE1reas de humanidades
+    e ci\xEAncias sociais, promovendo a criatividade, inova\xE7\xE3o, reflex\xE3o
+    e pensamento cr\xEDtico como elementos essenciais para o desenvolvimento sustent\xE1vel
+    e o bem-estar da sociedade. Os professores da ECHS s\xE3o ativos tanto no ensino
+    como na pesquisa, trabalhando em centros de pesquisa da institui\xE7\xE3o e colaborando
+    com outros centros de pesquisa nacionais. Eles tamb\xE9m est\xE3o envolvidos
+    em projetos e atividades acad\xEAmicas, art\xEDsticas e culturais de grande impacto
+    na sociedade, contribuindo para a intera\xE7\xE3o com a comunidade"
+  qrCodeText: chocasPolo2
+  color: {r: 1, g: 1, b: 1, a: 1}
+  Active: 0

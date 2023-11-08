@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: Teatro
+  m_EditorClassIdentifier: 
+  name: Teatro e Artes Performativas
+  description: "O curso de Teatro e Artes Performativas, prepara licenciados em Artes
+    Performativas, com foco na prepara\xE7\xE3o do ator/performer, com conhecimento
+    em disciplinas relacionadas com a Cultura e em articula\xE7\xE3o com outros departamentos
+    universit\xE1rios. O curso visa formar atores/performers, investigadores e dinamizadores
+    art\xEDsticos para o sistema de ensino, agentes de pr\xE1ticas art\xEDsticas
+    em diferentes \xE1reas, fomentar o autoemprego, promover a forma\xE7\xE3o de
+    grupos de express\xE3o art\xEDstica na comunidade e formar profissionais para
+    centros de produ\xE7\xE3o art\xEDstica regional e nacional. "
+  imagemCurso: {fileID: 2800000, guid: 0319b6ad8e000244c927e3dbcb125a50, type: 3}
+  polo: 4

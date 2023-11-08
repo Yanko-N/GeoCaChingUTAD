@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: "Engenharia Agron\xF3mica"
+  m_EditorClassIdentifier: 
+  name: "Engenharia Agron\xF3mica"
+  description: "A licenciatura em Engenharia Agron\xF3mica tem como objetivo a formac\u0327a\u0303o
+    de licenciados com conhecimentos e compete\u0302ncias na a\u0301rea das cie\u0302ncias
+    agrono\u0301micas, devera\u0303o possuir um conjunto de compete\u0302ncias que
+    permitam planear e gerir as actividades de uma empresa agri\u0301cola ou agro
+    -industrial, de modo a garantir a produtividade e a qualidade da produc\u0327a\u0303o
+    de forma sustenta\u0301vel, tendo em atenc\u0327a\u0303o a preservac\u0327a\u0303o
+    do meio ambiente e a seguranc\u0327a alimentar."
+  imagemCurso: {fileID: 2800000, guid: bc17b740924314a41a0c6087876b87a6, type: 3}
+  polo: 1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: GeneticaBiotecnologia
+  m_EditorClassIdentifier: 
+  name: "Gen\xE9tica e Biotecnologia"
+  description: "A Licenciatura em Gen\xE9tica e Biotecnologia \xE9 um curso que visa
+    a forma\xE7\xE3o de T\xE9cnicos Superiores e Investigadores com uma s\xF3lida
+    e atualizada forma\xE7\xE3o cient\xEDfica, te\xF3rica e pr\xE1tica, nas \xE1reas
+    cient\xEDficas da Gen\xE9tica, Biotecnologia, Biologia, Bioqu\xEDmica, Virologia,
+    Qu\xEDmica."
+  imagemCurso: {fileID: 2800000, guid: 0d73f11074dea424c960c7871cee6d09, type: 3}
+  polo: 2

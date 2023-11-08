@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: Design
+  m_EditorClassIdentifier: 
+  name: "Design Sustent\xE1vel"
+  description: "O curso tem como foco a cria\xE7\xE3o de valor para as empresas por
+    meio do desenvolvimento de produtos sustent\xE1veis que beneficiem consumidores
+    e sociedade, enquanto preservam o ambiente e promovem a qualidade de vida"
+  imagemCurso: {fileID: 2800000, guid: 97ac93690ee8c5543bb2ed8b549e03b8, type: 3}
+  polo: 3

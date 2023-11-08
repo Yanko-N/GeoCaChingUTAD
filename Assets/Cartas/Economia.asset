@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8740aae516d3f94da70aecf5f49e849, type: 3}
+  m_Name: Economia
+  m_EditorClassIdentifier: 
+  name: Economia
+  description: "A Licenciatura em Economia oferece uma s\xF3lida forma\xE7\xE3o em
+    Ci\xEAncias Econ\xF3micas, preparando os estudantes para trabalhar em v\xE1rias
+    \xE1reas, desde a formula\xE7\xE3o de pol\xEDticas econ\xF3micas at\xE9 an\xE1lises
+    micro e macroecon\xF3micas, atua\xE7\xE3o em mercados financeiros e gest\xE3o
+    de organiza\xE7\xF5es. Este curso tem um uma elevada qualidade, com metodologias
+    e conte\xFAdos program\xE1ticos atualizados \xE0s exig\xEAncias do mercado de
+    trabalho. Al\xE9m disso, esta licenciatura estimula a investiga\xE7\xE3o, desenvolvimento
+    de compet\xEAncias comportamentais."
+  imagemCurso: {fileID: 2800000, guid: 98940ab91488a534c94015adaa5684e9, type: 3}
+  polo: 4
